@@ -6,10 +6,14 @@
 # 需求
 1. 将各自文件夹下的srt转换为lrc，并且lrc文件要在srt文件同一目录中
 2. 大批量转换
-# 环境
+# 开发环境
 1. python
 	- 编辑器：Vscode，Pycharm...
 2. adb --**Android Debug Bridge**，即 **Android 调试桥**
 	- 下载链接：[SDK Platform Tools release notes  |  Android Studio  |  Android Developers](https://developer.android.google.cn/tools/releases/platform-tools) 
 	- 加入到系统变量path中
-3. 手机连接电脑，通过开发者选项，打开USB调试
+
+
+# 使用环境
+1. adb
+2. 手机连接电脑，通过开发者选项，打开USB调试
